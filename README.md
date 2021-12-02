@@ -51,8 +51,11 @@ class Reloj{
 #endif /* Reloj_hpp */
 ```
 ---
+[markdownguide.org](https://www.markdownguide.org/cheat-sheet/)
+
 [Pagina de Google](google.com)
-![image](monkey.jpeg)
+
+![monkey](monkey.jpeg)
 
 | Syntax | Description |
 | ----------- | ----------- |
