@@ -53,7 +53,7 @@ class Reloj{
 ---
 [markdownguide.org](https://www.markdownguide.org/cheat-sheet/)
 
-[Pagina de Google](google.com)
+[Pagina de Google](https://www.google.com)
 
 ![monkey](monkey.jpeg)
 
