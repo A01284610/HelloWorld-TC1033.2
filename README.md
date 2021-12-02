@@ -1,5 +1,6 @@
 ## HelloWorld-TC1033.2
 # Alejandro Lizárraga Vizcarra
+# Y Gonzalo Garza Moreno 
 ## Laboratorio - branch - commits - pull-request - merge - markdown
 
 **bold text**
